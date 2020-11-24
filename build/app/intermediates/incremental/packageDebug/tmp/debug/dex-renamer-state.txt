@@ -1,4 +1,4 @@
-#Fri Sep 11 18:46:29 BRT 2020
-base.0=C\:\\Users\\imaciel\\Desktop\\testes\\flutter\\projetos\\alcool_ou_gasolina\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+#Tue Nov 24 14:57:51 BRT 2020
+base.0=C\:\\Users\\isaac\\Downloads\\alcool_ou_gasolina\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
